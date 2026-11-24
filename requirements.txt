@@ -1,0 +1,6 @@
+# ReturnCheck — Rental Vehicle Damage Inspection at Return
+# Install:  pip install -r requirements.txt
+# Run:      streamlit run app.py
+streamlit
+numpy
+plotly
